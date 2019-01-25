@@ -1,0 +1,17 @@
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\UserPass.exe.config
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\UserPass.exe
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\UserPass.pdb
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\Twilio.dll
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\bin\Debug\Twilio.xml
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\obj\Debug\UserPass.csprojAssemblyReference.cache
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\obj\Debug\UserPass.csproj.CoreCompileInputs.cache
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\obj\Debug\UserPass.csproj.CopyComplete
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\obj\Debug\UserPass.exe
+C:\Users\Acer-PC\source\repos\UserPass\UserPass\obj\Debug\UserPass.pdb
